@@ -6,4 +6,5 @@
 *.tar
 *.tar.gz
 *.sol
+*.class
 main
