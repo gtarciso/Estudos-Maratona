@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * Problema 1084 URI
  */
-public class Main {
+public class U1084 {
  
     public static void main(String[] args) throws IOException {
  

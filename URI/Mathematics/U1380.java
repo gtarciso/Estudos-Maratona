@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Problema I do treino 1
  */
 
-public class Main {
+public class U1380 {
 
     public static final BigInteger ONE = new BigInteger("1");
     public static final BigInteger ZERO = new BigInteger("0");
