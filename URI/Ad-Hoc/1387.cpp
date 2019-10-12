@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+	while(1) {
+		int l, r;
+		scanf("%d", &l);
+		scanf("%d", &r);
+		if(l == 0 and r == 0) break;
+		printf("%d\n", l+r);
+	}
+	return 0;
+}
